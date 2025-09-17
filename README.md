@@ -1,7 +1,7 @@
 # ErgoSNM Keyboard
 
 [![license](https://img.shields.io/badge/License-CERN--OHL--P_v2-limegreen)](https://github.com/siderakb/ergo-snm-keyboard/blob/main/LICENSE-CERN-OHL-P)
-[![docs.rs](https://img.shields.io/badge/Docs-latest-blue)](https://siderakb.ziteh.dev/docs/ergosnm/intro)
+[![docs.rs](https://img.shields.io/badge/Docs-latest-blue)](https://siderakb.ziteh.dev/keyboards/ergosnm/rev2)
 [![kicad](https://img.shields.io/badge/KiCad-v7-orange)](https://github.com/siderakb/ergo-snm-keyboard/tree/main/ErgoSNM_Keyboard)
 
 ![](https://imgur.com/hzSMu2A.jpg)
@@ -36,7 +36,7 @@ Introduction Video:
 | `3.x` | Nordic **nRF52840** (E73) | First wireless experimental version      | [demo](https://www.youtube.com/watch?v=TtJiaOGiEaQ) |
 | `4.x` | ???                       | ⚡In progress                             |                                                     |
 
-Build guide and more information can be found in the [📖Docs](https://siderakb.ziteh.dev/docs/ergosnm/intro)
+Build guide and more information can be found in the [📖Docs](https://siderakb.ziteh.dev/keyboards/ergosnm/rev2)
 
 ## Clone
 
